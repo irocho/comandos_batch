@@ -12,4 +12,4 @@ Velaí vai unha ristra de scripts para practicar os comandos que xa coñecemos. 
 ### Nós mesmos
 Este repositorio é unha das actividades que facemos en clase de Sistemas Operativos Monoposto do ciclo medio SMR.
 
-No blog da asignatura falamos de comandos bash en: [irocho.wordpress.com](https://irocho.wordpress.com/tag/linux/)
+No blog da asignatura falamos de comandos bash en: [irocho.wordpress.com](https://irocho.wordpress.com/tag/windows/)
