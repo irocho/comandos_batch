@@ -1,6 +1,8 @@
-@echo off
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::
+:: Crear directorios e ficheiros con rutas relativas e absolutas
+::
+::  autor:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-for %%i in (1 2 3) do (
-	echo Boas
-	)
-pause
+:: Crea un bucle FOR que mostre tres veces "Boas"

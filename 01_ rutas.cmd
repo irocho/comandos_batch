@@ -3,13 +3,13 @@
 ::
 :: Crear directorios e ficheiros con rutas relativas e absolutas
 ::
-:: # autor:
+::  autor:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :: crea un directorio que se chame docs
 
-:: entra no directorio   
+:: entra no directorio
 
 :: crea un ficheiro que se chame fich.dat
 
